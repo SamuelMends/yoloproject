@@ -1,0 +1,3 @@
+path: C:/Users/samue/OneDrive/Documentos/yolov8/data/Forza_Horizon_Cars.csv
+train: train
+val: valid
