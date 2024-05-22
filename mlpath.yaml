@@ -2,17 +2,4 @@ path: ./
 train: forza/train
 val: forza/valid
 
-
-names:
-
-0: mclaren_p1
-1: lamborghini_veneno
-2: vaneyken_zerouno
-3: henessey_venomgt
-4: pagani_huayra 
-5: lamborghini_aventador
-6: koenigsegg_one
-7: pagani_zonda
-8: mcalren_speedtail
-9: yellow_aventador
-10: rimac_nevera
+names: ['mclaren_p1','lamborghini_veneno', 'vaneyken_zerouno', 'henessey_venomgt', 'pagani_huayra', 'lamborghini_aventador', 'koenigsegg_one', 'pagani_zonda', 'mcalren_speedtail', 'yellow_aventador', 'rimac_nevera']
